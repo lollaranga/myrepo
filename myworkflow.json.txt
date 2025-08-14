@@ -1,0 +1,6 @@
+{
+  "name": "My Workflow",
+  "steps": [
+    { "step": "Do something" }
+  ]
+}
